@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![Uploading Screenshot 2024-12-05 204915.png…]()
+![Screenshot 2024-12-05 204915](https://github.com/user-attachments/assets/09396a75-a8e3-4905-8afa-e0809347a860)
+
 
 ### Name:K Rahul Royal
 ### Register Number:zegt3957
